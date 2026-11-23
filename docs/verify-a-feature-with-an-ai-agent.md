@@ -2,7 +2,7 @@
 
 A coding agent can finish editing a feature before anyone knows whether the user flow works. Password reset is a good example. The page can build, the form can submit, and the reset email can still fail to arrive.
 
-I released Universal AI Engineering as a public preview to make that last part of the job explicit. It’s an MIT-licensed set of instructions you can load into a compatible coding agent. It starts by reading the relevant conversation and repository, then looks for the next decision or check that would move the project forward.
+I released Universal AI Engineering as a public preview for people taking a product from idea to launch with AI. It’s an MIT-licensed skill for compatible coding agents. It starts by reading the relevant conversation and repository, then helps you identify the next decision, choose what to build, and gather evidence that the result is ready to ship. Password reset is one way to see the verification step in action.
 
 ## Try it on a single feature
 

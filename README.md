@@ -2,7 +2,9 @@
 
 **Public preview.** The compatibility table shows which agents have passed discovery or live use.
 
-A portable [Agent Skill](https://agentskills.io/specification) for planning, building, verifying, releasing, and operating software. It reads the relevant conversation and repository, asks about decisions that matter, and gives short progress updates after each stage.
+**If you’re building a product with AI, you need a way to know what’s ready to ship.**
+
+Universal AI Engineering is a portable, MIT-licensed [Agent Skill](https://agentskills.io/specification) for taking a product from idea to launch. Use it for a website, mobile or desktop app, API, internal tool, or AI product. It reads the relevant conversation and repository, asks about decisions that matter, and tells you what it did, what it found, and what comes next.
 
 The skill includes a scenario simulation and test-and-repair loop, evidence-based release decisions, optional enterprise and client handoff checks, and a reusable progress and test results template. Focused changes use only the checks that apply.
 
