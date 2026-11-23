@@ -6,6 +6,8 @@ A portable [Agent Skill](https://agentskills.io/specification) for planning, bui
 
 The skill includes a scenario simulation and test-and-repair loop, evidence-based release decisions, optional enterprise and client handoff checks, and a reusable progress and test results template. Focused changes use only the checks that apply.
 
+[Try the password-reset walkthrough](docs/verify-a-feature-with-an-ai-agent.md) to see how the skill reports simulations, test results, and blockers.
+
 ## Use it in your agent
 
 Copy the whole [universal-ai-engineering](universal-ai-engineering/) folder into one documented project skill location. Keep the name and references together. Select the installed skill through your agent's available skill picker or invocation command.
